@@ -1,24 +1,20 @@
-# 📊 Data Visualizer
+# 📊 VizBotz - AI-Powered Data Visualizer 🚀
 
-## Description
+VizBotz is an interactive data visualization web app built with Streamlit and powered by Google Gemini AI.  
+It lets users upload CSV datasets, generate professional visualizations, and receive executive-style AI insights with a single click.
 
-**Data Visualizer** is a sophisticated tool crafted to transform your CSV files into stunning, dynamic visualizations with ease. Simply upload your CSV file, select the columns you wish to visualize, and choose from a variety of graph types. Within moments, you’ll have beautiful, ready-to-use graphs that can be seamlessly integrated into your presentations and projects, enhancing their appeal and effectiveness.
+---
 
-## Tech Stack
+## 🛠 Features
+- 📁 Upload any CSV dataset
+- 📊 Create Bar, Line, Scatter, Histogram, Pie, and Box Plot charts
+- 🎨 Auto-colored charts with Vega-Lite
+- 🧠 AI-Powered Insights (Trends, Outliers, Recommendations)
+- 📥 Download AI insights as JSON
+- 🔍 Interactive tooltips on charts
+- ✅ Streamlined UI with manual "Generate" button for professional flow
 
-- **Python**: Core programming language used for writing the code of the project.
-- **Pandas**: Used for processing and manipulating the CSV data.
-- **Plotly**: Utilized for plotting interactive and visually appealing charts.
-- **Streamlit**: Employed to create an interactive dashboard that allows users to easily generate visualizations.
-- **Streamlit Cloud**: Hosting platform where the project is deployed, making it accessible to users online.
-
-## Demo
-
-Live view by clicking the badge: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datavisualizerr.streamlit.app/)
-
-Watch the demo video to see the Data Visualizer in action:
-
-https://github.com/user-attachments/assets/ba806c7c-4b60-49fd-9123-af3ee020c347
+---
 
 ## Features
 
@@ -38,7 +34,7 @@ Make sure you have Python 3.11 installed on your system. You'll also need `pip` 
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/chirag-dudhrejia/data_visualizer.git
+   git clone https://github.com/Manaswi17/Vizbotz.git
 
 2. Open the project folder:
    ```bash
