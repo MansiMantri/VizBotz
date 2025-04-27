@@ -7,7 +7,7 @@ It lets users upload CSV datasets, generate professional visualizations, and rec
 
 ## 🛠 Features
 - 📁 Upload any CSV dataset
-- 📊 Create Bar, Line, Scatter, Histogram, Pie, and Box Plot charts
+- 📊 Create Bar, Line, Scatter, Pie, and Box Plot charts
 - 🎨 Auto-colored charts with Vega-Lite
 - 🧠 AI-Powered Insights (Trends, Outliers, Recommendations)
 - 📥 Download AI insights as JSON
