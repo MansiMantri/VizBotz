@@ -77,7 +77,7 @@ Return response strictly in this JSON format:
   "summary": [...]
 }}
             """
-            model = genai.GenerativeModel("gemini-1.5-flash-latest")
+            model = genai.GenerativeModel("gemini-pro")
             response = model.generate_content(
                 prompt,
                 generation_config=genai.types.GenerationConfig(
